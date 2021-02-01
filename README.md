@@ -5,7 +5,6 @@
 版本1.1-增加了游戏记录页面
 
 - 资料夹内容  
-__pycache__ python解析文件  
 game.ttf 游戏字体  
 inputbox.py 输入框  
 mine.py 主体  
